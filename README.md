@@ -145,4 +145,4 @@ For quick evaluation without manual registration, tap **"Launch Guided Tour"** o
 
 ## 📄 License
 
-This project is licensed under the Apache-2.0 License.
+This project is a hackathon prototype developed for educational and demonstration purposes.
