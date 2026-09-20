@@ -1,0 +1,96 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: 'Fredoka', cursive, sans-serif;
+  --font-sans: 'Nunito', system-ui, -apple-system, sans-serif;
+}
+
+body {
+  font-family: 'Nunito', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, .font-display {
+  font-family: 'Fredoka', cursive, sans-serif;
+}
+
+/* Duolingo-style 3D pushable button effects */
+.btn-3d-green {
+  background-color: #58cc02;
+  border-bottom: 4px solid #46a302;
+  transition: all 0.1s ease;
+}
+.btn-3d-green:hover {
+  background-color: #61e002;
+}
+.btn-3d-green:active:not(:disabled) {
+  border-bottom-width: 0px;
+  transform: translateY(4px);
+}
+
+.btn-3d-blue {
+  background-color: #1cb0f6;
+  border-bottom: 4px solid #1899d6;
+  transition: all 0.1s ease;
+}
+.btn-3d-blue:hover {
+  background-color: #2bd0ff;
+}
+.btn-3d-blue:active:not(:disabled) {
+  border-bottom-width: 0px;
+  transform: translateY(4px);
+}
+
+.btn-3d-yellow {
+  background-color: #ffc800;
+  border-bottom: 4px solid #e5a400;
+  transition: all 0.1s ease;
+}
+.btn-3d-yellow:hover {
+  background-color: #ffd224;
+}
+.btn-3d-yellow:active:not(:disabled) {
+  border-bottom-width: 0px;
+  transform: translateY(4px);
+}
+
+.btn-3d-coral {
+  background-color: #ff4b4b;
+  border-bottom: 4px solid #ea2b2b;
+  transition: all 0.1s ease;
+}
+.btn-3d-coral:hover {
+  background-color: #ff6666;
+}
+.btn-3d-coral:active:not(:disabled) {
+  border-bottom-width: 0px;
+  transform: translateY(4px);
+}
+
+.btn-3d-purple {
+  background-color: #ce82ff;
+  border-bottom: 4px solid #a855f7;
+  transition: all 0.1s ease;
+}
+.btn-3d-purple:hover {
+  background-color: #d896ff;
+}
+.btn-3d-purple:active:not(:disabled) {
+  border-bottom-width: 0px;
+  transform: translateY(4px);
+}
+
+.btn-3d-neutral {
+  background-color: #ffffff;
+  border: 2px solid #e5e7eb;
+  border-bottom: 4px solid #d1d5db;
+  transition: all 0.1s ease;
+}
+.btn-3d-neutral:hover {
+  background-color: #f9fafb;
+}
+.btn-3d-neutral:active:not(:disabled) {
+  border-bottom-width: 2px;
+  transform: translateY(2px);
+}

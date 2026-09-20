@@ -1,0 +1,6 @@
+{
+  "name": "Speech Play",
+  "description": "A gamified speech practice and therapy platform connecting therapists, parents, and children with playful quests and voice training.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
