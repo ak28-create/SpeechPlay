@@ -1,4 +1,4 @@
-# 🗣️ Speech Play — Gamified Speech Therapy Platform
+# 🗣️ Splingo — Gamified Speech Therapy Platform
 
 > A playful, Duolingo-inspired speech therapy application designed for children, parents, and Speech-Language Pathologists (SLPs). Features real-time voice recognition, phonetic pronunciation feedback, custom clinician exercise creation, and an engaging reward system.
 
@@ -6,7 +6,7 @@
 
 ## 🌟 Overview
 
-**Speech Play** transforms repetitive speech and articulation drills into an exciting daily quest. Inspired by Duolingo's friendly gamification mechanics (3D pushable buttons, streak counters, XP points, star milestones, and confetti celebrations), the application provides a safe, connected ecosystem for three distinct roles:
+**Splingo** transforms repetitive speech and articulation drills into an exciting daily quest. Inspired by Duolingo's friendly gamification mechanics (3D pushable buttons, streak counters, XP points, star milestones, and confetti celebrations), the application provides a safe, connected ecosystem for three distinct roles:
 
 1. **Parents**: Oversee their children's progress, configure profiles via a structured onboarding enquiry, and securely manage access to Child Mode.
 2. **Children**: Embark on interactive voice quests along a winding path, practicing target sounds through an encouraging *Listen → Say It → Practice → Earn Rewards* loop.
